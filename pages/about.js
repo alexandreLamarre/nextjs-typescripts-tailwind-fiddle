@@ -1,5 +1,8 @@
 function About() {
-    return <div>About</div>
+    return (
+    <p className="text-center text-green-500">
+        Hello, World!
+    </p>)
 }
 
 export default About
